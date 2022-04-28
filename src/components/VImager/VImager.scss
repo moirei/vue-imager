@@ -1,0 +1,11 @@
+.v-imager-background{
+  background-repeat: no-repeat;
+
+  &--contain{
+    background-size: contain
+  }
+
+  &--cover{
+    background-size: cover
+  }
+}
